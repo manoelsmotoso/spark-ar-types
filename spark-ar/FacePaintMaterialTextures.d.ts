@@ -1,0 +1,3 @@
+declare enum FacePaintMaterialTextures {
+    DIFFUSE
+}
